@@ -3,7 +3,7 @@ A simple restaurant website built using only **HTML**, showcasing Wade Restauran
 ---
 
 ## Oveview
-This project is a beginner-friendly HTML website thta provides an online presence for Wade Restaurant.It is static 
+This project is a beginner-friendly HTML website that provides an online presence for Wade Restaurant.It is static 
 and lightweight, making it ideal for learning the basics of web development.
 
 ## Features
